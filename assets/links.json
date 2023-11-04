@@ -1,34 +1,139 @@
 {
     "DOWNLOAD_TAG_VER": "v2.3.4",
     "META": {
-        "TITLE": "Example Title",
-        "AUTHOR": "Example Author",
-        "DESCRIPTION": "Example Description",
+        "TITLE": "Xstar97TheNoob",
+        "AUTHOR": "Xstar97TheNoob",
+        "DESCRIPTION": "gamer, hacker, weeb, and a noob.",
         "ICON_URL": "favicon.png",
         "THEME": "dark"
     },
     "BIO": {
         "ICON_URL": "icon.png",
-        "TITLE": "Example Title",
-        "DESCRIPTION": "Example Description",
-        "FOOTER": "Example Footer"
+        "TITLE": "Xstar97TheNoob",
+        "DESCRIPTION": "Gamer | Hacker | Weeb | Noob",
+        "FOOTER": "⚔️ Get Rekt Noob! ⚔️"
     },
-    "BASE_SHORT_URL": "",
-    "ENABLE_REDIRECTS": true,
+    "BASE_SHORT_URL": "https://s.xstar97thenoob.com",
+    "ENABLE_REDIRECTS": false,
     "LINKS": [
         {
             "brand": "github",
             "icon": "github",
             "name": "GitHub",
             "link": "/github",
-            "redirects":
-            [
-                {
-                    "src": "/github",
-                    "dest": "https://github.com/xstar97",
-                    "code": 308
-                }
-            ]
+            "redirects":null
+        },
+        {
+            "brand": "web",
+            "icon": "generic-website",
+            "name": "Docs",
+            "link": "/docs",
+            "redirects": null
+        },
+        {
+            "brand": "discord",
+            "icon": "discord",
+            "name": "Discord",
+            "link": "/discord",
+            "redirects": null
+        },
+        {
+            "brand": "twitch",
+            "icon": "twitch",
+            "name": "Twitch",
+            "link": "/tv",
+            "redirects": null
+        },
+        {
+            "brand": "yt",
+            "icon": "youtube",
+            "name": "YouTube",
+            "link": "/yt",
+            "redirects": null
+        },
+        {
+            "brand": "faceb",
+            "icon": "facebook",
+            "name": "FaceBook",
+            "link": "/fb",
+            "redirects": null
+        },
+        {
+            "brand": "tiktok",
+            "icon": "tiktok",
+            "name": "TikTok",
+            "link": "/tk",
+            "redirects": null
+        },
+        {
+            "brand": "reddit",
+            "icon": "reddit",
+            "name": "Reddit",
+            "link": "/reddit",
+            "redirects": null
+        },
+        {
+            "brand": "telegram",
+            "icon": "telegram",
+            "name": "TeleGram",
+            "link": "/telegram",
+            "redirects": null
+        },
+        {
+            "brand": "twit",
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "/tw",
+            "redirects": null
+        },
+        {
+            "brand": "instagram",
+            "icon": "instagram",
+            "name": "Instagram",
+            "link": "/insta",
+            "redirects": null
+        },
+        {
+            "brand": "paypal",
+            "icon": "paypal",
+            "name": "PayPal",
+            "link": "/paypal",
+            "redirects": null
+        },
+        {
+            "brand": "patreon",
+            "icon": "patreon",
+            "name": "Patreon",
+            "link": "/patreon",
+            "redirects": null
+        },
+        {
+            "brand": "venmo",
+            "icon": "venmo",
+            "name": "Venmo",
+            "link": "/venmo",
+            "redirects": null
+        },
+        {
+            "brand": "cash-app",
+            "icon": "cash-app-dollar",
+            "name": "Cash App",
+            "link": "/cash",
+            "redirects": null
+        },
+        {
+            "brand": "onlyfans",
+            "icon": "onlyfans",
+            "name": "OnlyFans",
+            "link": "/cash",
+            "redirects": null
+        },
+        {
+            "brand": "ko-fi",
+            "icon": "ko-fi",
+            "name": "Ko-Fi",
+            "link": "/ko-fi",
+            "redirects": null
         }
     ]
 }
