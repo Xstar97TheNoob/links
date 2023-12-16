@@ -33,8 +33,15 @@
         {
             "brand": "discord",
             "icon": "discord",
-            "name": "Discord",
+            "name": "Discord Community",
             "link": "/discord",
+            "redirects": null
+        },
+        {
+            "brand": "discord",
+            "icon": "discord",
+            "name": "Discord User",
+            "link": "/discord/user",
             "redirects": null
         },
         {
