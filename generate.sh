@@ -3,13 +3,17 @@
 # Clone the repository from GitHub into a temporary directory
 git clone https://github.com/xstar97/go-littlelinks-generator.git temp
 
-cp temp/output/littlelink-generator ./
+# Copy the littlelink-generator executable to the current directory
+cp temp/output/littlelink-generator .
 
-# Run the go-littlelinks-generator project
+# Run the littlelink-generator project
 ./littlelink-generator --asset-path "assets/" --config "links.json"
 
-# Copy the build directory to the root directory
-cp -r temp/build /build
+# Check if the build directory exists in the temporary directory
+if [ -d "temp/build" ]; then
+    # Copy the build directory to the root directory
+    cp -r temp/build /build
+fi
 
 # Clean up temporary directory
 rm -rf temp
