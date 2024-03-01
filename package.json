@@ -1,9 +1,5 @@
 {
-    "scripts": {
-        "clone": "git clone https://github.com/xstar97/go-littlelinks-generator.git temp",
-        "copyCliTool": "cp temp/output/littlelink-generator ./",
-        "generate": "./littlelink-generator --asset-path \"assets/\" --config \"links.json\"",
-        "tempToBuild": "cp -r /temp/build/* /build",
-        "build": "npm run clone && npm run copyCliTool && npm run generate && npm run tempToBuild && rm -rf temp"
-      }      
+  "scripts": {
+      "build": "chmod +x generate.sh && ./generate.sh"
+    }
 }
