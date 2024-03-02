@@ -31,6 +31,13 @@
             "redirects": null
         },
         {
+            "brand": "web",
+            "icon": "generic-website",
+            "name": "APOD",
+            "link": "/apd",
+            "redirects": null
+        },
+        {
             "brand": "discord",
             "icon": "discord",
             "name": "Discord Community",
@@ -126,6 +133,13 @@
             "icon": "cash-app-dollar",
             "name": "Cash App",
             "link": "/cash",
+            "redirects": null
+        },
+        {
+            "brand": "cash-app",
+            "icon": "cash-app-btc",
+            "name": "BitCoin Address",
+            "link": "bc1q838tprr522eeayvz227a45ug7m0jx60lxscnel",
             "redirects": null
         },
         {
