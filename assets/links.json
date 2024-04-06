@@ -148,6 +148,13 @@
             "name": "Ko-Fi",
             "link": "/ko-fi",
             "redirects": null
+        },
+        {
+            "brand": "web",
+            "icon": "generic-website",
+            "name": "Stake US",
+            "link": "/stakeus",
+            "redirects": null
         }
     ]
 }
