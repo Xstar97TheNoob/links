@@ -1,5 +1,5 @@
 ---
-DOWNLOAD_TAG_VER: v2.3.4
+DOWNLOAD_TAG_VER: v2.5.0
 META:
   TITLE: Xstar97TheNoob
   AUTHOR: Xstar97TheNoob
@@ -69,9 +69,9 @@ LINKS:
     name: TeleGram
     link: /telegram
     redirects: null
-  - brand: twit
-    icon: twitter
-    name: Twitter
+  - brand: x
+    icon: x
+    name: X
     link: /tw
     redirects: null
   - brand: instagram
