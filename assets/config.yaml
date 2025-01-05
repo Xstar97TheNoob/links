@@ -1,5 +1,5 @@
 ---
-DOWNLOAD_TAG_VER: v2.5.0
+DOWNLOAD_TAG_VER: v3.0.2
 META:
   TITLE: Xstar97TheNoob
   AUTHOR: Xstar97TheNoob
@@ -99,11 +99,6 @@ LINKS:
     name: Cash App
     link: /cash
     redirects: null
-  - brand: onlyfans
-    icon: onlyfans
-    name: OnlyFans
-    link: /onlyfans
-    redirects: null
   - brand: ko-fi
     icon: ko-fi
     name: Ko-Fi
@@ -113,4 +108,14 @@ LINKS:
     icon: generic-website
     name: Stake US
     link: /stakeus
+    redirects: null
+  - brand: web
+    icon: cash-app-btc
+    name: Crypto
+    link: /crypto
+    redirects: null
+  - brand: onlyfans
+    icon: onlyfans
+    name: OnlyFans
+    link: /onlyfans
     redirects: null
